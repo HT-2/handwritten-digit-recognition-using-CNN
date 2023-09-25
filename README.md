@@ -19,3 +19,8 @@ to match the EMNIST Letters:
 ● The images of digits have been omitted.
 ● The labels are in the same format as EMNIST Letters, including the unused class 0.
 However, the resolution of the images is different in this dataset: 20×16 rather than 28×28.
+
+Once the baseline convolutional network for comparison, begin
+experimenting with alternative architectures (e.g. adding additional filters to learn
+features and additional hidden layers to learn combinations of features) and with
+adjusting hyperparameters.

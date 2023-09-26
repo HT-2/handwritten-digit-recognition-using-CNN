@@ -33,4 +33,19 @@ Part 1-
 3. Note the accuracy obtained by that code compared to the previous example from Chollet.
 4. Apply the same architecture to the EMNIST Letters data.
 
+Part 2-
+1. You should have found that while the EMNIST Letters are harder to learn than the MNIST digits, switching to a different network architecture led to a significant increase in model performance.
+2. Now that you have a baseline convolutional network for comparison, begin experimenting with alternative architectures (e.g. adding additional filters to learn features and additional hidden layers to learn combinations of features) and with adjusting hyperparameters.
+3. Hyperparameter tuning using the following techniques is performed on the baseline model.
+Weight initialization
+Choice of activation function
+Choice of optimizer
+Batch normalization
+Data augmentation
+Regularization
+Dropout
+Early Stopping
+Pooling
+
+
 

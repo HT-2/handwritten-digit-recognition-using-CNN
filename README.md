@@ -54,6 +54,15 @@ Pooling
 3. Compare the performance of the model you built in step (3) with the performance of a brand-new model trained only on the Binary AlphaDigits dataset.
 
 ## Results-
+## Part 1 - Task 1
+The model produced a training accuracy of .9886 and a loss of .0384 after the 5th epoch and a testing accuracy of .9802 with a loss of .0678.
 
+## Part 1 - Task 2
+Used plt.imshow() to verify that the image data has been loaded correctly and that the corresponding labels are correct.
+
+## Part 1 - Task 3
+Using the model's dense (fully connected) architecture on our emnist training's data set and only changing the input layer to accept 784 pixels and the output layer to have 27 nodes, the accuracy received after the 5th epoch while training was .9238 while the loss received was .2323. This accuracy was lower as compared to the mnist training data set, and respectively, the loss was higher.
+
+During evaluating with the test data set, this model produced an accuracy of .9016 and a loss of .3233. As compared to the mnist evaluation on the test data set, this model's accuracy was lower and the loss was higher.
 
 

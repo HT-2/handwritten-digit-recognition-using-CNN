@@ -1,4 +1,4 @@
-# handwritten-digit-recognition-using-CNN
+# handwritten digit recognition using CNN
 This project aims at doing handwritten-digit recognition using the CNN on two different datasets.
 
 Datasets:

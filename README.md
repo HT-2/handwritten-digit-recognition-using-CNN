@@ -46,6 +46,13 @@ Regularization
 Dropout
 Early Stopping
 Pooling
+4. When you are satisfied with your model's performance, save your model and evaluate the results on the test set.
+
+Part 3-
+1. The process of transfer learning can be used to apply an existing model to a new dataset.
+2. The images in the Binary Alphadigits dataset are a different size from those in EMNIST Letters. Use a function like tf.image.resize_with_pad(), PIL.ImageOps.pad(), or the PyTorch torchvision.transforms.Resize class to resize them into the right format for the network you trained in Part 2.
+3. Compare the performance of the model you built in step (3) with the performance of a brand-new model trained only on the Binary AlphaDigits dataset.
+
 
 
 

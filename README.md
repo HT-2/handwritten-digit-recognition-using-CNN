@@ -16,7 +16,6 @@ The Binary Alphadigits dataset contains another set of handwritten letters and d
 opened with the numpy.load() method. The data contains two arrays: 'images' and
 'labels'. The values have been adjusted from the original Binary Alphadigits dataset in order
 to match the EMNIST Letters:
-
 ● The images of digits have been omitted.
 ● The labels are in the same format as EMNIST Letters, including the unused class 0.
 However, the resolution of the images is different in this dataset: 20×16 rather than 28×28.

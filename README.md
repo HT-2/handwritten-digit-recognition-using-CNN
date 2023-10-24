@@ -2,6 +2,7 @@
 This project aims at doing handwritten-digit recognition using the CNN on two different datasets.
 
 Datasets:
+
 ## EMNIST
 The Extended MNIST or EMNIST dataset expands on the MNIST database commonly used as
 a benchmark, adding handwritten letters as well as additional samples of handwritten digits. There are several “splits” of the data by various characteristics. We will be using the “EMNIST Letters” dataset, which contains values split into 27 classes, one unused (class 0) and one for

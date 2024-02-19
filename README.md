@@ -2,7 +2,6 @@
 This project aims at doing handwritten-digit recognition using the CNN on two different datasets.
 
 
-
 #Datasets:
 ## EMNIST
 The Extended MNIST or EMNIST dataset expands on the MNIST database commonly used as

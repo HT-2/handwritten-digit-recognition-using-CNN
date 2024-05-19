@@ -24,7 +24,6 @@ experimenting with alternative architectures (e.g. adding additional filters to 
 features and additional hidden layers to learn combinations of features) and with
 adjusting hyperparameters.
 
-
 ## Steps:
 ## Part 1-
 1. Load the EMNIST Letters dataset, and use plt.imshow() to verify that the image data has been loaded correctly and that the corresponding labels are correct.

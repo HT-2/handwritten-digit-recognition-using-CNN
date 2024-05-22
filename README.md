@@ -10,6 +10,7 @@ Note: Some classes in this dataset can be challenging to recognize because each 
 contains images of both upper- and lower-case letters. For example, while ‘C’ and ‘c’ are very
 similar in appearance, ‘A’ and ‘a’ are quite different.
 
+
 ## Binary AlphaDigits:
 The Binary Alphadigits dataset contains another set of handwritten letters and digits, in a different image size, in bitmap format. The file binaryalphadigits.npz contains the letters from this dataset, in a format that can be
 opened with the numpy.load() method. The data contains two arrays: 'images' and
